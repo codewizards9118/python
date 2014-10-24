@@ -1,3 +1,3 @@
 python
 ======
-python prgramms repos
+python programms repos
